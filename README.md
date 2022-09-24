@@ -14,20 +14,20 @@ Downloading nodejs application from https://nodejs.org/en/
 
 Install vuejs.
 
-![github-small](logo\install_option_for_vuejs.png)
+![github-small](/logo/install_option_for_vuejs.png)
 
 Open the \.Net core API (to MSSQL Database)\AIImages\AIImages.sln and run the following line.
 
-![github-small](logo\Install_for_api.png)
+![github-small](/logo/Install_for_api.png)
 
 Create the MSSQL based on the configuration.
 
-![github-small](logo\tablename.png)
+![github-small](/logo/tablename.png)
 
 ## How to use
 
 To run the FastAPI, run the following line.
-![github-small](logo\Run_FastAPI.png)
+![github-small](/logo/Run_FastAPI.png)
 
 ## More information
 
