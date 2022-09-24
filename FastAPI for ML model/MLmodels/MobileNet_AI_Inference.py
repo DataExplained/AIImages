@@ -45,12 +45,12 @@ def predict(path):
     return result
 
 
-with open(r'C:\Users\jiada\Downloads\ImageAiAPI\MLmodels\synset.txt', 'r') as f:
+with open(r'synset.txt', 'r') as f:
     labels = [l.rstrip() for l in f]
 
 
 # Enter path to the ONNX model file
-model_path= r'C:\Users\jiada\Downloads\ImageAiAPI\MLmodels\resnet18-v2-7.onnx'
+model_path= r'resnet18-v2-7.onnx'
 sym, arg_params, aux_params = import_model(model_path)
 
 Batch = namedtuple('Batch', ['data'])
