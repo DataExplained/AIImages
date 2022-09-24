@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ILg+RxHG50kCq31S8EqfaOGFV9Biy+xlkt+ly0X7Zj6pBvNOeVzByibUOxppF5FpnqfyN6smIRa9CgI9UwWXw==",
+  "dgSpecHash": "+yfCuhbQdQS/Dc/qwZh7CEc1Ln6xx7jD5r5p/FTdKmk29+mQFHQiKNiElDOnB4JINp4q6x8hqaOefh8cJ6RYqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jiada\\Downloads\\ImageAiAPI\\AIImages\\AIImages\\AIImages.csproj",
+  "projectFilePath": "C:\\Users\\jiada\\Downloads\\ImageAiAPI\\AIImages\\.Net core API (to MSSQL Database)\\AIImages\\AIImages\\AIImages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jiada\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\jiada\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

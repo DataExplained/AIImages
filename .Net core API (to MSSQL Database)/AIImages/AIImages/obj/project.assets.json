@@ -3476,11 +3476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jiada\\Downloads\\ImageAiAPI\\AIImages\\AIImages\\AIImages.csproj",
+      "projectUniqueName": "C:\\Users\\jiada\\Downloads\\ImageAiAPI\\AIImages\\.Net core API (to MSSQL Database)\\AIImages\\AIImages\\AIImages.csproj",
       "projectName": "AIImages",
-      "projectPath": "C:\\Users\\jiada\\Downloads\\ImageAiAPI\\AIImages\\AIImages\\AIImages.csproj",
+      "projectPath": "C:\\Users\\jiada\\Downloads\\ImageAiAPI\\AIImages\\.Net core API (to MSSQL Database)\\AIImages\\AIImages\\AIImages.csproj",
       "packagesPath": "C:\\Users\\jiada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jiada\\Downloads\\ImageAiAPI\\AIImages\\AIImages\\obj\\",
+      "outputPath": "C:\\Users\\jiada\\Downloads\\ImageAiAPI\\AIImages\\.Net core API (to MSSQL Database)\\AIImages\\AIImages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jiada\\AppData\\Roaming\\NuGet\\NuGet.Config",
