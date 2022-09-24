@@ -1,14 +1,14 @@
 # AIImages
 
-![github-small](logo\AI_Images_Prediction_Web_Application.png)
+![github-small](/logo/AI_Images_Prediction_Web_Application.png)
 
 ## Installation
 
 pip install the python requirements.
-![github-small](logo\pip install requirements.png)
+![github-small](/logo/pip install requirements.png)
 
 Downloading nodejs application from https://nodejs.org/en/
-![github-small](logo\Nodejs Download.png)
+![github-small](/logo/Nodejs Download.png)
 
 Install vuejs.
 ![github-small](logo\install option for vuejs.png)
